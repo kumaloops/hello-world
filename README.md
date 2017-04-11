@@ -1,3 +1,5 @@
-# hello-world
-This hello-world repository will be where I store ideas,  and resources.
-I have a little dog named Kuma.
+public class HelloWorld {
+public static void main(String[] args) {
+System.out.println("Hello World!");
+}
+}
